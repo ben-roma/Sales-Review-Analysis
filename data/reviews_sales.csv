@@ -1,0 +1,56 @@
+Review_ID,Date,Review_Rating,Sales_Next_Day,Review_Text
+1,2022-01-01,3,80,Loved it!
+2,2022-01-02,4,85,Loved it!
+3,2022-01-03,1,33,Average item.
+4,2022-01-04,3,72,Great product!
+5,2022-01-05,3,74,Not satisfied.
+6,2022-01-06,1,32,Would not recommend.
+7,2022-01-07,4,86,Average item.
+8,2022-01-08,2,49,Would not recommend.
+9,2022-01-09,4,81,Would not recommend.
+10,2022-01-10,4,81,Loved it!
+11,2022-01-11,4,77,Not satisfied.
+12,2022-01-12,4,56,Not satisfied.
+13,2022-01-13,4,84,Not satisfied.
+14,2022-01-14,3,49,Would not recommend.
+15,2022-01-15,4,73,Loved it!
+16,2022-01-16,4,69,Loved it!
+17,2022-01-17,4,108,Average item.
+18,2022-01-18,4,74,Would not recommend.
+19,2022-01-19,1,21,Loved it!
+20,2022-01-20,3,53,Would not recommend.
+21,2022-01-21,5,108,Great product!
+22,2022-01-22,1,14,Loved it!
+23,2022-01-23,4,89,Loved it!
+24,2022-01-24,5,95,Loved it!
+25,2022-01-25,1,16,Would not recommend.
+26,2022-01-26,3,74,Loved it!
+27,2022-01-27,5,105,Would not recommend.
+28,2022-01-28,3,52,Great product!
+29,2022-01-29,1,15,Not satisfied.
+30,2022-01-30,2,38,Great product!
+31,2022-01-31,1,-1,Would not recommend.
+32,2022-02-01,4,77,Loved it!
+33,2022-02-02,2,30,Loved it!
+34,2022-02-03,4,85,Would not recommend.
+35,2022-02-04,1,30,Average item.
+36,2022-02-05,1,8,Loved it!
+37,2022-02-06,1,23,Great product!
+38,2022-02-07,1,22,Would not recommend.
+39,2022-02-08,5,110,Great product!
+40,2022-02-09,5,91,Would not recommend.
+41,2022-02-10,1,15,Loved it!
+42,2022-02-11,5,103,Would not recommend.
+43,2022-02-12,2,46,Loved it!
+44,2022-02-13,4,73,Great product!
+45,2022-02-14,3,48,Loved it!
+46,2022-02-15,3,54,Would not recommend.
+47,2022-02-16,1,34,Great product!
+48,2022-02-17,2,41,Loved it!
+49,2022-02-18,4,79,Average item.
+50,2022-02-19,3,53,Average item.
+51,2022-02-20,1,11,Not satisfied.
+52,2022-02-21,4,85,Loved it!
+53,2022-02-22,5,114,Average item.
+54,2022-02-23,3,70,Loved it!
+55,2022-02-24,5,124,Great product!
