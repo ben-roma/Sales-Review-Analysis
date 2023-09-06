@@ -1,0 +1,201 @@
+ID,Date,Review_Rating,Sales_Next_Day,Review_Text
+1,2023-02-18,4,25,Très satisfait de mon achat.
+2,2023-02-19,5,37,Excellent produit !
+3,2023-02-20,3,41,C'est un produit correct.
+4,2023-02-21,5,45,Excellent produit !
+5,2023-02-22,5,52,Excellent produit !
+6,2023-02-23,2,28,Je m'attendais à mieux.
+7,2023-02-24,3,20,C'est un produit correct.
+8,2023-02-25,3,28,C'est un produit correct.
+9,2023-02-26,3,47,C'est un produit correct.
+10,2023-02-27,5,69,Excellent produit !
+11,2023-02-28,4,30,Très satisfait de mon achat.
+12,2023-03-01,3,35,C'est un produit correct.
+13,2023-03-02,5,72,Excellent produit !
+14,2023-03-03,2,17,Je m'attendais à mieux.
+15,2023-03-04,4,46,Très satisfait de mon achat.
+16,2023-03-05,2,37,Je m'attendais à mieux.
+17,2023-03-06,4,55,Très satisfait de mon achat.
+18,2023-03-07,5,34,Excellent produit !
+19,2023-03-08,1,22,Très déçu du produit.
+20,2023-03-09,4,54,Très satisfait de mon achat.
+21,2023-03-10,2,17,Je m'attendais à mieux.
+22,2023-03-11,5,57,Excellent produit !
+23,2023-03-12,4,46,Très satisfait de mon achat.
+24,2023-03-13,1,15,Très déçu du produit.
+25,2023-03-14,1,23,Très déçu du produit.
+26,2023-03-15,3,28,C'est un produit correct.
+27,2023-03-16,3,20,C'est un produit correct.
+28,2023-03-17,2,21,Je m'attendais à mieux.
+29,2023-03-18,4,31,Très satisfait de mon achat.
+30,2023-03-19,4,44,Très satisfait de mon achat.
+31,2023-03-20,3,27,C'est un produit correct.
+32,2023-03-21,4,24,Très satisfait de mon achat.
+33,2023-03-22,4,36,Très satisfait de mon achat.
+34,2023-03-23,1,28,Très déçu du produit.
+35,2023-03-24,3,44,C'est un produit correct.
+36,2023-03-25,5,66,Excellent produit !
+37,2023-03-26,3,37,C'est un produit correct.
+38,2023-03-27,5,63,Excellent produit !
+39,2023-03-28,1,29,Très déçu du produit.
+40,2023-03-29,2,23,Je m'attendais à mieux.
+41,2023-03-30,4,26,Très satisfait de mon achat.
+42,2023-03-31,1,15,Très déçu du produit.
+43,2023-04-01,4,56,Très satisfait de mon achat.
+44,2023-04-02,2,28,Je m'attendais à mieux.
+45,2023-04-03,2,36,Je m'attendais à mieux.
+46,2023-04-04,1,21,Très déçu du produit.
+47,2023-04-05,2,35,Je m'attendais à mieux.
+48,2023-04-06,5,58,Excellent produit !
+49,2023-04-07,2,37,Je m'attendais à mieux.
+50,2023-04-08,4,43,Très satisfait de mon achat.
+51,2023-04-09,4,25,Très satisfait de mon achat.
+52,2023-04-10,4,24,Très satisfait de mon achat.
+53,2023-04-11,4,42,Très satisfait de mon achat.
+54,2023-04-12,5,73,Excellent produit !
+55,2023-04-13,3,31,C'est un produit correct.
+56,2023-04-14,1,14,Très déçu du produit.
+57,2023-04-15,4,28,Très satisfait de mon achat.
+58,2023-04-16,2,36,Je m'attendais à mieux.
+59,2023-04-17,4,50,Très satisfait de mon achat.
+60,2023-04-18,2,22,Je m'attendais à mieux.
+61,2023-04-19,2,22,Je m'attendais à mieux.
+62,2023-04-20,4,26,Très satisfait de mon achat.
+63,2023-04-21,5,57,Excellent produit !
+64,2023-04-22,2,28,Je m'attendais à mieux.
+65,2023-04-23,2,28,Je m'attendais à mieux.
+66,2023-04-24,4,26,Très satisfait de mon achat.
+67,2023-04-25,2,31,Je m'attendais à mieux.
+68,2023-04-26,2,34,Je m'attendais à mieux.
+69,2023-04-27,4,49,Très satisfait de mon achat.
+70,2023-04-28,4,51,Très satisfait de mon achat.
+71,2023-04-29,1,12,Très déçu du produit.
+72,2023-04-30,5,64,Excellent produit !
+73,2023-05-01,5,58,Excellent produit !
+74,2023-05-02,2,24,Je m'attendais à mieux.
+75,2023-05-03,5,54,Excellent produit !
+76,2023-05-04,2,21,Je m'attendais à mieux.
+77,2023-05-05,1,13,Très déçu du produit.
+78,2023-05-06,4,30,Très satisfait de mon achat.
+79,2023-05-07,4,32,Très satisfait de mon achat.
+80,2023-05-08,4,46,Très satisfait de mon achat.
+81,2023-05-09,5,73,Excellent produit !
+82,2023-05-10,1,13,Très déçu du produit.
+83,2023-05-11,5,52,Excellent produit !
+84,2023-05-12,5,73,Excellent produit !
+85,2023-05-13,1,26,Très déçu du produit.
+86,2023-05-14,1,13,Très déçu du produit.
+87,2023-05-15,1,26,Très déçu du produit.
+88,2023-05-16,1,28,Très déçu du produit.
+89,2023-05-17,4,44,Très satisfait de mon achat.
+90,2023-05-18,3,33,C'est un produit correct.
+91,2023-05-19,3,37,C'est un produit correct.
+92,2023-05-20,1,12,Très déçu du produit.
+93,2023-05-21,3,41,C'est un produit correct.
+94,2023-05-22,3,22,C'est un produit correct.
+95,2023-05-23,1,21,Très déçu du produit.
+96,2023-05-24,3,48,C'est un produit correct.
+97,2023-05-25,5,42,Excellent produit !
+98,2023-05-26,2,18,Je m'attendais à mieux.
+99,2023-05-27,2,16,Je m'attendais à mieux.
+100,2023-05-28,1,13,Très déçu du produit.
+101,2023-05-29,4,24,Très satisfait de mon achat.
+102,2023-05-30,1,19,Très déçu du produit.
+103,2023-05-31,4,48,Très satisfait de mon achat.
+104,2023-06-01,2,28,Je m'attendais à mieux.
+105,2023-06-02,1,23,Très déçu du produit.
+106,2023-06-03,5,64,Excellent produit !
+107,2023-06-04,3,27,C'est un produit correct.
+108,2023-06-05,4,31,Très satisfait de mon achat.
+109,2023-06-06,3,22,C'est un produit correct.
+110,2023-06-07,3,36,C'est un produit correct.
+111,2023-06-08,1,12,Très déçu du produit.
+112,2023-06-09,3,35,C'est un produit correct.
+113,2023-06-10,5,46,Excellent produit !
+114,2023-06-11,3,46,C'est un produit correct.
+115,2023-06-12,1,22,Très déçu du produit.
+116,2023-06-13,5,61,Excellent produit !
+117,2023-06-14,2,33,Je m'attendais à mieux.
+118,2023-06-15,3,41,C'est un produit correct.
+119,2023-06-16,1,19,Très déçu du produit.
+120,2023-06-17,2,39,Je m'attendais à mieux.
+121,2023-06-18,2,20,Je m'attendais à mieux.
+122,2023-06-19,4,30,Très satisfait de mon achat.
+123,2023-06-20,5,48,Excellent produit !
+124,2023-06-21,3,38,C'est un produit correct.
+125,2023-06-22,1,24,Très déçu du produit.
+126,2023-06-23,4,32,Très satisfait de mon achat.
+127,2023-06-24,5,69,Excellent produit !
+128,2023-06-25,4,55,Très satisfait de mon achat.
+129,2023-06-26,5,31,Excellent produit !
+130,2023-06-27,5,60,Excellent produit !
+131,2023-06-28,3,49,C'est un produit correct.
+132,2023-06-29,5,30,Excellent produit !
+133,2023-06-30,4,56,Très satisfait de mon achat.
+134,2023-07-01,5,51,Excellent produit !
+135,2023-07-02,3,20,C'est un produit correct.
+136,2023-07-03,3,24,C'est un produit correct.
+137,2023-07-04,4,56,Très satisfait de mon achat.
+138,2023-07-05,2,38,Je m'attendais à mieux.
+139,2023-07-06,2,28,Je m'attendais à mieux.
+140,2023-07-07,5,57,Excellent produit !
+141,2023-07-08,1,13,Très déçu du produit.
+142,2023-07-09,5,33,Excellent produit !
+143,2023-07-10,4,43,Très satisfait de mon achat.
+144,2023-07-11,4,43,Très satisfait de mon achat.
+145,2023-07-12,4,37,Très satisfait de mon achat.
+146,2023-07-13,4,56,Très satisfait de mon achat.
+147,2023-07-14,4,58,Très satisfait de mon achat.
+148,2023-07-15,3,48,C'est un produit correct.
+149,2023-07-16,2,26,Je m'attendais à mieux.
+150,2023-07-17,4,48,Très satisfait de mon achat.
+151,2023-07-18,1,15,Très déçu du produit.
+152,2023-07-19,1,13,Très déçu du produit.
+153,2023-07-20,1,28,Très déçu du produit.
+154,2023-07-21,1,16,Très déçu du produit.
+155,2023-07-22,3,24,C'est un produit correct.
+156,2023-07-23,1,25,Très déçu du produit.
+157,2023-07-24,4,57,Très satisfait de mon achat.
+158,2023-07-25,5,54,Excellent produit !
+159,2023-07-26,1,19,Très déçu du produit.
+160,2023-07-27,3,40,C'est un produit correct.
+161,2023-07-28,3,22,C'est un produit correct.
+162,2023-07-29,1,28,Très déçu du produit.
+163,2023-07-30,5,30,Excellent produit !
+164,2023-07-31,1,23,Très déçu du produit.
+165,2023-08-01,3,48,C'est un produit correct.
+166,2023-08-02,2,32,Je m'attendais à mieux.
+167,2023-08-03,4,50,Très satisfait de mon achat.
+168,2023-08-04,3,20,C'est un produit correct.
+169,2023-08-05,1,13,Très déçu du produit.
+170,2023-08-06,4,44,Très satisfait de mon achat.
+171,2023-08-07,1,26,Très déçu du produit.
+172,2023-08-08,1,17,Très déçu du produit.
+173,2023-08-09,2,32,Je m'attendais à mieux.
+174,2023-08-10,4,54,Très satisfait de mon achat.
+175,2023-08-11,4,26,Très satisfait de mon achat.
+176,2023-08-12,2,21,Je m'attendais à mieux.
+177,2023-08-13,3,33,C'est un produit correct.
+178,2023-08-14,1,25,Très déçu du produit.
+179,2023-08-15,5,55,Excellent produit !
+180,2023-08-16,1,20,Très déçu du produit.
+181,2023-08-17,1,24,Très déçu du produit.
+182,2023-08-18,3,42,C'est un produit correct.
+183,2023-08-19,1,12,Très déçu du produit.
+184,2023-08-20,2,36,Je m'attendais à mieux.
+185,2023-08-21,2,23,Je m'attendais à mieux.
+186,2023-08-22,4,25,Très satisfait de mon achat.
+187,2023-08-23,5,67,Excellent produit !
+188,2023-08-24,1,21,Très déçu du produit.
+189,2023-08-25,1,16,Très déçu du produit.
+190,2023-08-26,3,20,C'est un produit correct.
+191,2023-08-27,2,22,Je m'attendais à mieux.
+192,2023-08-28,5,45,Excellent produit !
+193,2023-08-29,4,49,Très satisfait de mon achat.
+194,2023-08-30,2,28,Je m'attendais à mieux.
+195,2023-08-31,4,31,Très satisfait de mon achat.
+196,2023-09-01,3,48,C'est un produit correct.
+197,2023-09-02,3,29,C'est un produit correct.
+198,2023-09-03,1,25,Très déçu du produit.
+199,2023-09-04,5,67,Excellent produit !
+200,2023-09-05,4,26,Très satisfait de mon achat.
