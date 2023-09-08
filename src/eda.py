@@ -26,8 +26,9 @@ def plot_sales_vs_reviews(data):
     plt.show()
 
 if __name__ == "__main__":
-    data_path = "../data/reviews_sales.csv"
+    data_path = "../data/reviews_sales_data.csv"
     data = load_data(data_path)
-    
-#    plot_review_distribution(data)
+
+    plot_review_distribution(data)
     plot_sales_vs_reviews(data)
+
