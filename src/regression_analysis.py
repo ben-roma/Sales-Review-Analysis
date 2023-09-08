@@ -15,7 +15,7 @@ def perform_regression(data):
 
     model = sm.OLS(y, X)
     results = model.fit()
-    
+
     return results
 
 # Visualize regression results
@@ -31,9 +31,10 @@ def plot_regression_results(data, results):
     plt.show()
 
 if __name__ == "__main__":
-    data_path = "../data/reviews_sales.csv"
+    data_path = "../data/reviews_sales_data.csv"
     df = load_data(data_path)
-    
+
     regression_results = perform_regression(df)
     plot_regression_results(df, regression_results)
+
 
